@@ -1,0 +1,14 @@
+{
+    "description": "domain to host app for personal use. Subdomain wildcards are used for accessing diffrent service.",
+    "domain": "localplayer.dev",
+    "subdomain": "*.go",
+    "owner": {
+        "email": "test@zeeshub.vn"
+    },
+    "record": {
+        "A": [
+            "216.198.79.1"
+        ]
+    },
+    "proxied": false
+}
